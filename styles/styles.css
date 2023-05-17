@@ -1,0 +1,32 @@
+.color{
+    background-color: aqua;
+}
+
+
+.borde{
+    border-radius: 40px;
+}
+
+body{
+    background-color: rgba(43, 226, 211, 0.541);
+}
+
+.rojo{
+    background-color: rgba(153, 0, 255, 0.103);
+}
+
+.bordee{
+    border-radius: 40px
+}
+
+.arroz{
+    background-color: rgba(165, 42, 42, 0.301);
+}
+
+.papa{
+    background-color: rgba(0, 0, 255, 0.363);
+}
+
+.negro{
+    background-color: rgb(255, 255, 255);
+}
